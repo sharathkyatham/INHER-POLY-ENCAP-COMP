@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+body {
+ background-image: url(./images/pubg.webp);
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+h1{
+  font-family: 'Courier New', Courier, monospace;
+  letter-spacing: 9px;
+  background: linear-gradient(60deg,red,green,blue);
+  color: rgba(255,255,255,0.99);
+  background-clip: text;
+  -webkit-text-stroke: 9px transparent;
+}
